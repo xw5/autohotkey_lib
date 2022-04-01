@@ -11,4 +11,6 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 FileRemoveDir a, 1
 FileSelectFile aa
 if aa
-    MsgBox 1, test, %aa%
+    MsgBox 1, tips, %aa%
+Else
+    MsgBox 1, tips, 未选择文件

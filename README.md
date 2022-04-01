@@ -11,7 +11,9 @@ AutoHotKey 简称 ahk，是一款 windows 平台下的热键脚本语言程序�
 
 * AutoHotKey河许人中文论坛：https://www.autoahk.com/
 
-* AutoHotKey中文文挡：https://wyagd001.github.io/zh-cn/docs/Tutorial.htm
+* AutoHotKey中文文挡：
+    https://wyagd001.github.io/zh-cn/docs/Tutorial.
+    http://ahkcn.sourceforge.net/docs/commands/index.htm
 
 * AutoGui学习：http://jdev.tw/blog/5669/learning-autohotkey-using-autogui
 
