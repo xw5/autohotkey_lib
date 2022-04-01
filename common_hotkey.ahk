@@ -5,6 +5,12 @@ SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 #SingleInstance Force
 
 ; 启动vs code
-!v::
+::vsc::
     Run code
     return
+
+; 启动记事本
+#n::Run notepad
+
+; 启动计算器
+#c::Run calc
